@@ -8,7 +8,7 @@ Transform recorded meeting audio into structured summaries with actionable insig
 - **IBM Granite Speech 8B** for audio transcription
 - **IBM Granite 3.3 Instruct** for summarization and task extraction
 
-## Preview(youtube link:https://youtu.be/9ElN3fKfzak)
+## Preview (youtube link:https://youtu.be/9ElN3fKfzak)
  ![](https://github.com/kunalsanga/AI-Meet-IBM/blob/main/Screenshot%202025-06-29%20212541.png)
  ![](https://github.com/kunalsanga/AI-Meet-IBM/blob/main/Screenshot%202025-06-29%20230852.png)
 ## ✨ Features
