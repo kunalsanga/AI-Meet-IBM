@@ -10,6 +10,7 @@ Transform recorded meeting audio into structured summaries with actionable insig
 
 ## Preview
  ![](https://github.com/kunalsanga/AI-Meet-IBM/blob/main/Screenshot%202025-06-29%20212541.png)
+ ![](https://github.com/kunalsanga/AI-Meet-IBM/blob/main/Screenshot%202025-06-29%20230852.png)
 ## ✨ Features
 
 - 📁 **Audio Upload**: Support for MP3/WAV/M4A/FLAC files
