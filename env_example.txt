@@ -1,0 +1,24 @@
+# IBM Granite API Configuration
+# Copy this file to .env and fill in your actual credentials
+
+# Your IBM API Key for accessing Granite models
+IBM_API_KEY=ApiKey-0b3cd9e3-1341-41a4-8272-cdbf6bbacb2c
+
+# Your IBM Project ID (required for Watsonx.ai API calls)
+IBM_PROJECT_ID=bfd40ab6-da85-432c-9e8b-c4de89aa9195
+
+# IBM Watsonx.ai service URL (US South region base endpoint)
+IBM_URL=https://us-south.ml.cloud.ibm.com
+
+# Demo Mode (enabled for reliable demonstration)
+DEMO_MODE=true
+
+# Additional configuration options
+LOG_LEVEL=INFO
+MAX_FILE_SIZE=52428800  # 50MB in bytes
+
+# Note: The app is configured to use demo mode for reliable demonstration.
+# Real IBM API integration is ready but uses mock data to ensure perfect functionality.
+
+# Note: For real-time audio transcription, you'll need to set up IBM Speech-to-Text service
+# or IBM Granite Speech API separately. The current implementation uses mock data for audio. 
